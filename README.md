@@ -1,2 +1,2 @@
 # mygitactions
-Learning about github actions
+Learning about GitHub actions
